@@ -1,0 +1,1566 @@
+2026-08-16 13:18:17 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-08-16 13:18:21 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-08-16 13:18:22 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-08-16 13:18:22 INFO  project.tests.CartTests - ========== START TC_SC_001_addOneProductToCart ==========
+2026-08-16 13:18:22 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-08-16 13:18:23 INFO  project.tests.CartTests - ========== SUCCESS TC_SC_001_addOneProductToCart ==========
+2026-08-16 13:18:23 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-08-16 13:18:25 INFO  project.tests.E2EPurchaseTests - ========== START TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-08-16 13:18:25 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-08-16 13:18:26 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-08-16 13:18:26 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-08-16 13:18:27 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-08-16 13:18:27 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-08-16 13:18:27 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-08-16 13:18:28 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-08-16 13:18:29 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-08-16 13:18:31 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001_loginWithValidCredentials ==========
+2026-08-16 13:18:31 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-08-16 13:18:32 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-08-16 13:18:32 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001_loginWithValidCredentials ==========
+2026-08-16 13:18:32 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008_logoutSuccessfully ==========
+2026-08-16 13:18:32 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-08-16 13:18:32 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-08-16 13:18:34 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-09 20:31:36 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-09 20:31:46 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:31:47 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:31:47 INFO  project.tests.CartTests - ========== START TC_SC_001_addOneProductToCart ==========
+2026-09-09 20:31:47 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-09 20:31:48 INFO  project.tests.CartTests - ========== SUCCESS TC_SC_001_addOneProductToCart ==========
+2026-09-09 20:31:48 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-09 20:31:50 INFO  project.tests.E2EPurchaseTests - ========== START TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-09-09 20:31:50 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:31:51 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:31:51 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-09 20:31:52 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-09 20:31:52 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-09 20:31:52 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-09 20:31:53 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-09-09 20:31:54 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-09 20:31:56 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001_loginWithValidCredentials ==========
+2026-09-09 20:31:56 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:31:57 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:31:57 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001_loginWithValidCredentials ==========
+2026-09-09 20:31:57 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-09 20:31:57 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:31:58 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:31:59 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-09 20:34:26 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-09 20:34:29 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:34:30 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:34:31 INFO  project.tests.CartTests - ========== START TC_SC_001_addOneProductToCart ==========
+2026-09-09 20:34:31 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-09 20:34:32 INFO  project.tests.CartTests - ========== SUCCESS TC_SC_001_addOneProductToCart ==========
+2026-09-09 20:34:32 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-09 20:34:34 INFO  project.tests.E2EPurchaseTests - ========== START TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-09-09 20:34:34 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:34:35 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:34:35 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-09 20:34:35 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-09 20:34:36 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-09 20:34:36 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-09 20:34:37 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-09-09 20:34:37 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-09 20:34:39 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001_loginWithValidCredentials ==========
+2026-09-09 20:34:39 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:34:40 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:34:40 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001_loginWithValidCredentials ==========
+2026-09-09 20:34:40 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-09 20:34:40 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-09 20:34:41 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-09 20:34:42 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 44 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 34 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--1769191811\testng-customsuite.xml
+
+2026-09-10 12:49:58 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2026-09-10 12:49:58 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 12:50:05 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 12:50:06 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 12:50:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6a74d228: 337 ms
+2026-09-10 12:50:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e134896: 4 ms
+2026-09-10 12:50:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@286b39c2: 28 ms
+2026-09-10 12:50:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@48bfb884: 18 ms
+2026-09-10 12:50:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4525d1d3: 13 ms
+2026-09-10 12:50:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c974942: 0 ms
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--462894319\testng-customsuite.xml
+
+2026-09-10 12:53:25 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-09-10 12:53:25 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 12:53:29 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 12:53:29 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 12:53:31 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73ba6fe6: 319 ms
+2026-09-10 12:53:31 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@281f23f2: 3 ms
+2026-09-10 12:53:31 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7551da2a: 43 ms
+2026-09-10 12:53:31 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@215a34b4: 11 ms
+2026-09-10 12:53:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@706cb08: 9 ms
+2026-09-10 12:53:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e25147a: 1 ms
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--2074743210\testng-customsuite.xml
+
+2026-09-10 13:00:45 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2026-09-10 13:00:45 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 13:00:49 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 13:00:50 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 13:00:51 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 13:00:52 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 13:00:53 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@21fdfefc: 357 ms
+2026-09-10 13:00:53 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@29a69a35: 2 ms
+2026-09-10 13:00:53 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@314ed053: 43 ms
+2026-09-10 13:00:53 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@834831b: 21 ms
+2026-09-10 13:00:53 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c4fc2bf: 9 ms
+2026-09-10 13:00:53 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7772054c: 0 ms
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--824399888\testng-customsuite.xml
+
+2026-09-10 14:57:26 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 18 ms.
+2026-09-10 14:57:26 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:33:19 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:33:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--650998560\testng-customsuite.xml
+
+2026-09-10 15:33:20 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2026-09-10 15:33:20 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 15:33:26 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:33:27 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:33:27 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:33:27 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:33:28 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-10 15:33:28 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-10 15:33:29 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:33:29 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:33:30 INFO  project.page.LoginPage - Starting authentication for user: kMsUuvZgYD
+2026-09-10 15:33:31 INFO  project.page.LoginPage - Authentication flow completed for user: kMsUuvZgYD
+2026-09-10 15:33:31 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:33:31 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:33:31 ERROR org.testng.internal.Utils - [Error] org.testng.TestNGException: 
+Method public void project.tests.LoginTests.logoutSuccessfully(project.testdata.LoginData) requires a @DataProvider named : loginData in class project.testdata.dataprovider.TestDataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2026-09-10 15:33:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@113e13f9: 230 ms
+2026-09-10 15:33:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@612e21b9: 28 ms
+2026-09-10 15:33:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@46185a1b: 72 ms
+2026-09-10 15:33:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5292ceca: 17 ms
+2026-09-10 15:33:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@673919a7: 15 ms
+2026-09-10 15:33:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@25d93198: 0 ms
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--1427903991\testng-customsuite.xml
+
+2026-09-10 15:34:56 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-09-10 15:34:56 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 15:35:00 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:35:00 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:35:00 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-10 15:35:01 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-10 15:35:01 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-10 15:35:02 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-10 15:35:02 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:35:03 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:35:04 INFO  project.page.LoginPage - Starting authentication for user: YxmVIbaspy
+2026-09-10 15:35:04 INFO  project.page.LoginPage - Authentication flow completed for user: YxmVIbaspy
+2026-09-10 15:35:04 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:35:05 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:35:05 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 15:35:06 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 15:35:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@714f3da4: 289 ms
+2026-09-10 15:35:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2fcd7d3f: 3 ms
+2026-09-10 15:35:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@512575e9: 43 ms
+2026-09-10 15:35:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@67064bdc: 14 ms
+2026-09-10 15:35:08 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@480ad82c: 14 ms
+2026-09-10 15:35:08 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d18b73a: 0 ms
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-968249741\testng-customsuite.xml
+
+2026-09-10 16:24:57 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2026-09-10 16:24:57 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:25:01 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:25:02 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:25:02 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:25:02 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:25:03 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:25:03 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:25:04 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:25:05 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:25:05 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:25:06 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:25:06 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:25:06 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:25:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6edcad64: 189 ms
+2026-09-10 16:25:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6981f8f3: 2 ms
+2026-09-10 16:25:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4b6e1c0: 24 ms
+2026-09-10 16:25:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a2bcd56: 11 ms
+2026-09-10 16:25:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f0f7849: 9 ms
+2026-09-10 16:25:07 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56a4f272: 0 ms
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:16 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1701935769\testng-customsuite.xml
+
+2026-09-10 16:27:17 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2026-09-10 16:27:17 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:27:20 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:21 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:22 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:27:23 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:23 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:23 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:27:24 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:25 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:25 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:27:26 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:27:28 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:29 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:29 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:27:30 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:27:30 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:27:30 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:27:31 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:32 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:32 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:27:32 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:27:33 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:27:33 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:27:34 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:27:36 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:36 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:37 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-10 16:27:37 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-10 16:27:37 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-10 16:27:38 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-10 16:27:38 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:39 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:40 INFO  project.page.LoginPage - Starting authentication for user: JcOhKJHHKO
+2026-09-10 16:27:40 INFO  project.page.LoginPage - Authentication flow completed for user: JcOhKJHHKO
+2026-09-10 16:27:40 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:41 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:41 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:41 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:43 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:27:45 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:46 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:46 INFO  project.page.InventoryPage - Sorting products by option: Name (A to Z)
+2026-09-10 16:27:46 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:47 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:47 INFO  project.page.InventoryPage - Sorting products by option: Name (Z to A)
+2026-09-10 16:27:47 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:48 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:48 INFO  project.page.InventoryPage - Sorting products by option: Price (low to high)
+2026-09-10 16:27:48 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:49 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:49 INFO  project.page.InventoryPage - Sorting products by option: Price (high to low)
+2026-09-10 16:27:49 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:27:52 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:52 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:52 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:27:53 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:27:54 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:27:54 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:54 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:54 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:27:55 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:27:55 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:27:55 ERROR org.testng.internal.Utils - [Error] org.testng.TestNGException: 
+Method public void project.tests.CheckoutTests.checkoutWithEmptyZipCode(project.testdata.datamodel.CheckoutUser) requires a @DataProvider named : checkoutUserWithEmptyZipCode in class project.testdata.dataprovider.TestDataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2026-09-10 16:27:56 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:56 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:56 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:27:56 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:27:57 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:27:57 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:58 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:58 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:27:58 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:27:59 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:27:59 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:27:59 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:27:59 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:28:00 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:28:00 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:28:00 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:28:01 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:28:01 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:28:01 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:28:02 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:28:03 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@43aa767: 214 ms
+2026-09-10 16:28:03 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2bfa5678: 41 ms
+2026-09-10 16:28:03 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f025e9e: 100 ms
+2026-09-10 16:28:03 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e3b4394: 20 ms
+2026-09-10 16:28:03 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3adb4cc8: 38 ms
+2026-09-10 16:28:03 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@779136bf: 0 ms
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1585942460\testng-customsuite.xml
+
+2026-09-10 16:29:29 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-09-10 16:29:29 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:29:33 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:29:33 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:29:34 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:29:34 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:29:35 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:29:35 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:29:36 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:29:36 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:29:36 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:29:37 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:29:37 ERROR org.testng.internal.Utils - [Error] org.testng.TestNGException: 
+Method public void project.tests.CheckoutTests.checkoutWithEmptyZipCode(project.testdata.datamodel.CheckoutUser) requires a @DataProvider named : checkoutUserWithEmptyZipCode in class project.testdata.dataprovider.TestDataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2026-09-10 16:29:37 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:29:38 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:29:38 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:29:38 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:29:39 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:29:39 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:29:40 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:29:40 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:29:40 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:29:41 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:29:41 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:29:41 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:29:42 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:29:42 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:29:43 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:29:43 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:29:43 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:29:44 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:29:44 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:29:45 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:29:47 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6bcae9: 198 ms
+2026-09-10 16:29:47 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3dc68586: 42 ms
+2026-09-10 16:29:47 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@670342a2: 82 ms
+2026-09-10 16:29:47 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a531422: 15 ms
+2026-09-10 16:29:47 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2d28fb02: 18 ms
+2026-09-10 16:29:47 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6db328f8: 0 ms
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 38 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:31:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--1828183007\testng-customsuite.xml
+
+2026-09-10 16:31:31 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-09-10 16:31:31 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:31:34 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:35 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:35 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:36 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:36 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:36 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:37 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:37 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:38 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:38 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:38 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:39 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:39 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:39 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:40 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:40 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:40 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:41 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:41 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:42 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:42 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:42 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:43 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:43 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:44 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:44 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:44 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:44 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:45 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:46 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:46 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:31:46 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:31:47 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:31:47 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:31:48 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:31:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7cd5fcf4: 189 ms
+2026-09-10 16:31:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@649b5891: 48 ms
+2026-09-10 16:31:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5bec3e0: 50 ms
+2026-09-10 16:31:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@cf01c2e: 16 ms
+2026-09-10 16:31:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c71c889: 15 ms
+2026-09-10 16:31:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4cc8d70d: 0 ms
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1121931997\testng-customsuite.xml
+
+2026-09-10 16:38:44 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2026-09-10 16:38:44 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:38:49 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:38:50 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:38:50 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:38:51 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:38:52 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:38:52 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:38:52 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:38:53 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:38:53 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:38:54 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:38:56 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:38:57 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:38:57 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:38:57 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:38:58 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:38:58 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:38:59 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:00 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:00 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:39:00 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:01 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:01 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:39:02 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:39:04 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:04 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:05 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-10 16:39:05 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-10 16:39:05 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-10 16:39:06 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-10 16:39:06 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:07 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:08 INFO  project.page.LoginPage - Starting authentication for user: oCIlHsDgpV
+2026-09-10 16:39:08 INFO  project.page.LoginPage - Authentication flow completed for user: oCIlHsDgpV
+2026-09-10 16:39:08 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:09 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:09 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:09 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:11 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:39:13 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:13 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:14 INFO  project.page.InventoryPage - Sorting products by option: Name (A to Z)
+2026-09-10 16:39:14 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:14 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:14 INFO  project.page.InventoryPage - Sorting products by option: Name (Z to A)
+2026-09-10 16:39:15 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:16 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:16 INFO  project.page.InventoryPage - Sorting products by option: Price (low to high)
+2026-09-10 16:39:16 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:17 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:17 INFO  project.page.InventoryPage - Sorting products by option: Price (high to low)
+2026-09-10 16:39:17 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:39:19 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:20 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:20 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:21 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:21 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:21 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:22 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:22 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:23 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:23 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:23 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:24 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:24 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:24 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:25 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:25 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:25 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:25 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:26 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:26 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:27 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:27 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:27 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:27 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:28 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:28 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:29 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:29 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:29 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:30 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:30 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:39:30 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:39:30 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:39:31 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:39:32 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:39:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@28d1b2f: 178 ms
+2026-09-10 16:39:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@ad6255e: 28 ms
+2026-09-10 16:39:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@d164938: 83 ms
+2026-09-10 16:39:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d76d72a: 13 ms
+2026-09-10 16:39:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3df4cd96: 31 ms
+2026-09-10 16:39:32 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35bf6dba: 0 ms
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1962759941\testng-customsuite.xml
+
+2026-09-10 16:40:58 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-09-10 16:40:58 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:41:01 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:41:02 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:41:02 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-10 16:41:03 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-10 16:41:03 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-10 16:41:04 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-10 16:41:04 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:41:05 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:41:06 INFO  project.page.LoginPage - Starting authentication for user: hXrnUBjvbN
+2026-09-10 16:41:06 INFO  project.page.LoginPage - Authentication flow completed for user: hXrnUBjvbN
+2026-09-10 16:41:06 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:41:07 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:41:07 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:41:07 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:41:09 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@714f3da4: 205 ms
+2026-09-10 16:41:09 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2fcd7d3f: 2 ms
+2026-09-10 16:41:09 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@512575e9: 54 ms
+2026-09-10 16:41:09 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@67064bdc: 12 ms
+2026-09-10 16:41:09 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@480ad82c: 18 ms
+2026-09-10 16:41:09 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d18b73a: 0 ms
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 19 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--1788848318\testng-customsuite.xml
+
+2026-09-10 16:44:02 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2026-09-10 16:44:02 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:44:06 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:06 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:07 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:44:08 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:08 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:08 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:44:09 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:10 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:10 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:44:11 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:44:13 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:13 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:13 INFO  project.page.InventoryPage - Adding 2 products to cart
+2026-09-10 16:44:14 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:15 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:15 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:44:16 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:17 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:17 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 16:44:17 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:18 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:18 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 16:44:18 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:44:21 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:21 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:21 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-10 16:44:22 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-10 16:44:22 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-10 16:44:22 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-10 16:44:23 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:23 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:24 INFO  project.page.LoginPage - Starting authentication for user: IgduJLbshS
+2026-09-10 16:44:25 INFO  project.page.LoginPage - Authentication flow completed for user: IgduJLbshS
+2026-09-10 16:44:25 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:25 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:25 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:26 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:27 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:44:29 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:30 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:30 INFO  project.page.InventoryPage - Sorting products by option: Name (A to Z)
+2026-09-10 16:44:31 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:31 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:31 INFO  project.page.InventoryPage - Sorting products by option: Name (Z to A)
+2026-09-10 16:44:32 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:32 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:33 INFO  project.page.InventoryPage - Sorting products by option: Price (low to high)
+2026-09-10 16:44:33 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:33 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:33 INFO  project.page.InventoryPage - Sorting products by option: Price (high to low)
+2026-09-10 16:44:34 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 16:44:36 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:37 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:37 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:37 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:38 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:38 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:39 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:39 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:39 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:40 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:40 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:40 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:41 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:41 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:42 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:42 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:42 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:42 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:43 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:43 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:43 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:44 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:44 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:44 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:45 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:45 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:45 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:46 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:46 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:46 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:47 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 16:44:47 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 16:44:47 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Bolt T-Shirt
+2026-09-10 16:44:48 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 16:44:48 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 16:44:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@28d1b2f: 498 ms
+2026-09-10 16:44:49 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@ad6255e: 39 ms
+2026-09-10 16:44:50 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@d164938: 74 ms
+2026-09-10 16:44:50 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d76d72a: 19 ms
+2026-09-10 16:44:50 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3df4cd96: 38 ms
+2026-09-10 16:44:50 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35bf6dba: 0 ms
+2026-09-10 17:26:33 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 17:26:37 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 17:26:38 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 17:26:38 INFO  project.tests.CartTests - ========== START TC_SC_001_addOneProductToCart ==========
+2026-09-10 17:26:38 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 17:26:39 INFO  project.tests.CartTests - ========== SUCCESS TC_SC_001_addOneProductToCart ==========
+2026-09-10 17:26:39 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 17:26:42 INFO  project.tests.E2EPurchaseTests - ========== START TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-09-10 17:26:42 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 17:26:42 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 17:26:42 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-10 17:26:43 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-10 17:26:44 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-10 17:26:44 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-10 17:26:45 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_Checkout_008_purchaseOneItemWithValidDetails ==========
+2026-09-10 17:26:45 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-10 17:26:47 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001_loginWithValidCredentials ==========
+2026-09-10 17:26:47 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 17:26:48 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 17:26:48 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001_loginWithValidCredentials ==========
+2026-09-10 17:26:48 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-10 17:26:48 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-10 17:26:49 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-10 17:26:50 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008_logoutSuccessfully ==========
+2026-09-20 12:44:55 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 12:45:09 INFO  project.tests.LoginTests - ========== START TC_LOGIN_006: Login with empty password and valid username ==========
+2026-09-20 12:45:09 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:45:10 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:45:10 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_006: Login with empty password and valid username ==========
+2026-09-20 12:45:10 INFO  project.tests.LoginTests - ========== START TC_LOGIN_005: Login with empty username and valid password ==========
+2026-09-20 12:45:10 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-20 12:45:11 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-20 12:45:11 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_005: Login with empty username and valid password ==========
+2026-09-20 12:45:12 INFO  project.tests.LoginTests - ========== START TC_LOGIN_007: Login with locked out user ==========
+2026-09-20 12:45:12 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-20 12:45:12 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-20 12:45:12 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_007: Login with locked out user ==========
+2026-09-20 12:45:13 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 12:45:13 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:45:13 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:45:14 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 12:45:14 INFO  project.tests.LoginTests - ========== START TC_LOGIN_002: Login with valid credentials using enter ==========
+2026-09-20 12:45:15 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_002: Login with valid credentials using enter ==========
+2026-09-20 12:45:15 INFO  project.tests.LoginTests - ========== START TC_LOGIN_004: Login with valid password and wrong username ==========
+2026-09-20 12:45:15 INFO  project.page.LoginPage - Starting authentication for user: RWaDIUOnqv
+2026-09-20 12:45:16 INFO  project.page.LoginPage - Authentication flow completed for user: RWaDIUOnqv
+2026-09-20 12:45:16 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_004: Login with valid password and wrong username ==========
+2026-09-20 12:45:16 INFO  project.tests.LoginTests - ========== START TC_LOGIN_003: Login with valid username and wrong password ==========
+2026-09-20 12:45:16 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:45:17 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:45:17 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_003: Login with valid username and wrong password ==========
+2026-09-20 12:45:17 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008: Logout successfully ==========
+2026-09-20 12:45:17 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:45:18 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:45:19 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008: Logout successfully ==========
+2026-09-20 12:54:39 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 12:54:44 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:54:45 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:54:46 INFO  project.tests.CartTests - ========== START TC_CART_001: Add one product to cart ==========
+2026-09-20 12:54:46 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-20 12:54:47 INFO  project.tests.CartTests - ========== SUCCESS TC_CART_001: Add one product to cart ==========
+2026-09-20 12:54:48 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 12:54:51 INFO  project.tests.E2EPurchaseTests - ========== START TC_Checkout_008: Purchase one item with valid details ==========
+2026-09-20 12:54:51 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:54:51 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:54:51 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-20 12:54:53 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-20 12:54:54 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-20 12:54:54 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-20 12:54:55 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_Checkout_008: Purchase one item with valid details ==========
+2026-09-20 12:54:56 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 12:54:58 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 12:54:58 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:55:00 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:55:00 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 12:55:00 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008: Logout successfully ==========
+2026-09-20 12:55:00 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 12:55:01 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 12:55:02 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008: Logout successfully ==========
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 42 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 97 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:03:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:03:16 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--1742308232\testng-customsuite.xml
+
+2026-09-20 19:03:16 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2026-09-20 19:03:16 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 19:03:24 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@437ebf59: 305 ms
+2026-09-20 19:03:24 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d81e101: 56 ms
+2026-09-20 19:03:24 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@55caeb35: 66 ms
+2026-09-20 19:03:24 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@11a82d0f: 24 ms
+2026-09-20 19:03:24 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3961a41a: 22 ms
+2026-09-20 19:03:24 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5a4ed68f: 0 ms
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1050483342\testng-customsuite.xml
+
+2026-09-20 19:14:00 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 18 ms.
+2026-09-20 19:14:00 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 19:14:05 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:14:06 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:14:06 INFO  project.page.LoginPage - Starting authentication for user: 
+2026-09-20 19:14:07 INFO  project.page.LoginPage - Authentication flow completed for user: 
+2026-09-20 19:14:07 INFO  project.page.LoginPage - Starting authentication for user: locked_out_user
+2026-09-20 19:14:08 INFO  project.page.LoginPage - Authentication flow completed for user: locked_out_user
+2026-09-20 19:14:08 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:14:09 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:14:10 INFO  project.page.LoginPage - Starting authentication for user: ritUEvupDU
+2026-09-20 19:14:11 INFO  project.page.LoginPage - Authentication flow completed for user: ritUEvupDU
+2026-09-20 19:14:11 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:14:12 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:14:12 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:14:13 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:14:15 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5d497a91: 311 ms
+2026-09-20 19:14:15 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3050ac2f: 4 ms
+2026-09-20 19:14:15 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4cbc2e3b: 97 ms
+2026-09-20 19:14:15 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@177515d1: 16 ms
+2026-09-20 19:14:15 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@136965e3: 15 ms
+2026-09-20 19:14:15 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@53c6f96d: 0 ms
+2026-09-20 19:37:20 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 19:37:27 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:37:28 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:37:28 INFO  project.tests.CartTests - ========== START TC_CART_001: Add one product to cart ==========
+2026-09-20 19:37:28 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-20 19:37:29 INFO  project.tests.CartTests - ========== SUCCESS TC_CART_001: Add one product to cart ==========
+2026-09-20 19:37:30 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 19:37:33 INFO  project.tests.E2EPurchaseTests - ========== START TC_Checkout_008: Purchase one item with valid details ==========
+2026-09-20 19:37:33 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:37:34 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:37:34 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-20 19:37:35 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-20 19:37:36 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-20 19:37:36 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-20 19:37:38 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_Checkout_008: Purchase one item with valid details ==========
+2026-09-20 19:37:38 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 19:37:41 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 19:37:41 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:37:42 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:37:42 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 19:37:42 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008: Logout successfully ==========
+2026-09-20 19:37:42 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 19:37:43 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 19:37:45 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008: Logout successfully ==========
+2026-09-20 23:58:18 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 23:58:25 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 23:58:26 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 23:58:26 INFO  project.tests.CartTests - ========== START TC_CART_001: Add one product to cart ==========
+2026-09-20 23:58:26 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-20 23:58:27 INFO  project.tests.CartTests - ========== SUCCESS TC_CART_001: Add one product to cart ==========
+2026-09-20 23:58:28 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 23:58:31 INFO  project.tests.E2EPurchaseTests - ========== START TC_E2E_001: Purchase one item with valid details ==========
+2026-09-20 23:58:31 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 23:58:32 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 23:58:32 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-20 23:58:32 ERROR project.tests.E2EPurchaseTests - ========== FAILED TC_E2E_001: Purchase one item with valid details ==========
+2026-09-20 23:58:33 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-20 23:58:36 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 23:58:36 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 23:58:36 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 23:58:37 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001: Login with valid credentials ==========
+2026-09-20 23:58:37 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008: Logout successfully ==========
+2026-09-20 23:58:37 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-20 23:58:38 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-20 23:58:39 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008: Logout successfully ==========
+2026-09-21 00:01:33 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-21 00:01:39 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:01:39 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:01:40 INFO  project.tests.CartTests - ========== START TC_CART_001: Add one product to cart ==========
+2026-09-21 00:01:40 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-21 00:01:41 INFO  project.tests.CartTests - ========== SUCCESS TC_CART_001: Add one product to cart ==========
+2026-09-21 00:01:42 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-21 00:01:44 INFO  project.tests.E2EPurchaseTests - ========== START TC_E2E_001: Purchase one item with valid details ==========
+2026-09-21 00:01:44 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:01:45 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:01:45 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-21 00:01:45 ERROR project.tests.E2EPurchaseTests - ========== FAILED TC_E2E_001: Purchase one item with valid details ==========
+2026-09-21 00:01:46 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-21 00:01:49 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001: Login with valid credentials ==========
+2026-09-21 00:01:49 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:01:50 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:01:50 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001: Login with valid credentials ==========
+2026-09-21 00:01:51 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008: Logout successfully ==========
+2026-09-21 00:01:51 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:01:51 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:01:52 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008: Logout successfully ==========
+2026-09-21 00:06:43 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-21 00:06:48 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:06:49 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:06:49 INFO  project.tests.CartTests - ========== START TC_CART_001: Add one product to cart ==========
+2026-09-21 00:06:49 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-21 00:06:50 INFO  project.tests.CartTests - ========== SUCCESS TC_CART_001: Add one product to cart ==========
+2026-09-21 00:06:51 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-21 00:06:53 INFO  project.tests.E2EPurchaseTests - ========== START TC_E2E_001: Purchase one item with valid details ==========
+2026-09-21 00:06:53 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:06:55 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:06:55 INFO  project.page.InventoryPage - Adding product to cart and opening shopping cart: Sauce Labs Backpack
+2026-09-21 00:06:56 INFO  project.page.CheckoutOnePage - Completing checkout information for user
+2026-09-21 00:06:57 INFO  project.page.CheckoutOnePage - Checkout information completed
+2026-09-21 00:06:57 INFO  project.page.CheckoutTwoPage - Calculating expected total price
+2026-09-21 00:06:58 INFO  project.tests.E2EPurchaseTests - ========== SUCCESS TC_E2E_001: Purchase one item with valid details ==========
+2026-09-21 00:06:58 INFO  project.base.BaseTest - Creating WebDriver instance
+2026-09-21 00:07:01 INFO  project.tests.LoginTests - ========== START TC_LOGIN_001: Login with valid credentials ==========
+2026-09-21 00:07:01 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:07:02 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:07:02 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_001: Login with valid credentials ==========
+2026-09-21 00:07:03 INFO  project.tests.LoginTests - ========== START TC_LOGIN_008: Logout successfully ==========
+2026-09-21 00:07:03 INFO  project.page.LoginPage - Starting authentication for user: standard_user
+2026-09-21 00:07:03 INFO  project.page.LoginPage - Authentication flow completed for user: standard_user
+2026-09-21 00:07:04 INFO  project.tests.LoginTests - ========== SUCCESS TC_LOGIN_008: Logout successfully ==========

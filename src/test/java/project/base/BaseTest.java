@@ -1,0 +1,183 @@
+package project.base;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.MutableCapabilities;
+import org.openqa.selenium.PageLoadStrategy;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import org.testng.asserts.SoftAssert;
+
+import project.page.CartPage;
+import project.page.CheckoutCompletePage;
+import project.page.CheckoutOnePage;
+import project.page.CheckoutTwoPage;
+import project.page.InventoryPage;
+import project.page.LoginPage;
+import project.testdata.TestDataFactory;
+import dorusqa.model.LoginUser;
+//import project.testdata.model.LoginUser;
+import project.utils.ConfigEnvReader;
+
+public abstract class BaseTest {
+
+	// WebDriver
+	public WebDriver driver;
+
+	// Web Pages
+	public LoginPage loginPage;
+	public InventoryPage inventoryPage;
+	public CartPage cartPage;
+	public CheckoutOnePage checkoutStepOne;
+	public CheckoutTwoPage checkoutStepTwo;
+	public CheckoutCompletePage checkoutComplete;
+
+	// Logger
+	private static Logger logger = LoggerFactory.getLogger(BaseTest.class);
+		
+	// Soft Assert
+	public SoftAssert softAssertion;
+
+	// Test Data
+	public LoginUser standardUser;
+
+
+
+
+	public WebDriver createDriver() {
+
+		logger.info("Creating WebDriver instance");
+
+		WebDriver driver = null;
+		MutableCapabilities options = null;
+
+		String browser = System.getProperty("browserName", "chrome");
+
+		if (browser.equalsIgnoreCase("chrome")) {
+
+			ChromeOptions chromeOptions = new ChromeOptions();
+
+			// Chrome Browser configuration
+			chromeOptions.addArguments("--start-maximized");
+			chromeOptions.addArguments("--disable-notifications");
+			chromeOptions.addArguments("--disable-popup-blocking");
+			chromeOptions.addArguments("--disable-translate");
+			chromeOptions.addArguments("--incognito");
+
+			chromeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+
+			Map<String, Object> prefs = new HashMap<>();
+			prefs.put("credentials_enable_service", false);
+			prefs.put("profile.password_manager_enabled", false);
+			prefs.put("profile.password_manager_leak_detection", false);
+
+			chromeOptions.setExperimentalOption("prefs", prefs);
+
+			options = chromeOptions;
+
+		} else if (browser.equalsIgnoreCase("firefox")) {
+
+			FirefoxOptions firefoxOptions = new FirefoxOptions();
+
+			firefoxOptions.addArguments("--start-maximized");
+
+			firefoxOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+
+			options = firefoxOptions;
+
+		} else if (browser.equalsIgnoreCase("edge")) {
+
+			EdgeOptions edgeOptions = new EdgeOptions();
+
+			edgeOptions.addArguments("--start-maximized");
+			edgeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+
+			options = edgeOptions;
+
+		} else {
+
+			throw new RuntimeException("Browser necunoscut: " + browser);
+		}
+
+		if (options instanceof ChromeOptions)
+			driver = new ChromeDriver((ChromeOptions) options);
+
+		else if (options instanceof FirefoxOptions)
+			driver = new FirefoxDriver((FirefoxOptions) options);
+
+		else if (options instanceof EdgeOptions)
+			driver = new EdgeDriver((EdgeOptions) options);
+
+
+		return driver;
+	}
+
+	public void closeBrowser(WebDriver d) {
+		if (d != null)
+			d.quit();
+	}
+
+	@BeforeClass(alwaysRun = true)
+	public void setup() {
+
+		// Init Driver
+		driver = createDriver();
+
+		// Init Web Pages
+		loginPage = new LoginPage(driver);
+		inventoryPage = new InventoryPage(driver);
+		cartPage = new CartPage(driver);
+		checkoutStepOne = new CheckoutOnePage(driver);
+		checkoutStepTwo = new CheckoutTwoPage(driver);
+		checkoutComplete = new CheckoutCompletePage(driver);
+
+		// Init Soft Assertion
+		softAssertion = new SoftAssert();
+
+		// Init Test Data
+		standardUser = TestDataFactory.createStandardUser();
+
+	}
+
+	@BeforeMethod(alwaysRun = true)
+	public void navigate() {
+
+		driver.get(ConfigEnvReader.get("baseUrl"));
+	}
+
+	@AfterMethod(alwaysRun = true)
+	public void cleanupAfterTest(ITestResult result) {
+
+		clearBrowserState();
+		softAssertion = new SoftAssert();
+	}
+
+	@AfterClass(alwaysRun = true)
+	public void closeBrowser() {
+		
+		if (driver != null)
+			driver.quit();
+	}
+
+	private void clearBrowserState() {
+
+		driver.manage().deleteAllCookies();
+		((JavascriptExecutor) driver).executeScript("window.localStorage.clear();");
+		((JavascriptExecutor) driver).executeScript("window.sessionStorage.clear();");
+	}
+
+}
