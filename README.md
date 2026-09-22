@@ -27,7 +27,7 @@
 - [Conclusion](#conclusion)
 
 
-## 📖 Overview
+## 📖 Overview 
 
 - This automation framework is built using Java, Selenium WebDriver, TestNG, Maven, Gson, Logback and Extent Reports.
 - The framework automates Authentication, Product Catalog, Shopping Cart and Checkout workflows of the eCommerce application.
