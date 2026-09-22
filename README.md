@@ -1,4 +1,4 @@
-# 🛒 Project 2 – eCommerce-App UI Testing Automation Framework
+# 🛒 Project 1 – eCommerce-App UI Testing Automation Framework
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
