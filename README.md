@@ -11,7 +11,7 @@
 
 > **Note 2:** This project is part of my personal QA Automation portfolio.
 
-## Table of Contents 
+## Table of Contents  
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
