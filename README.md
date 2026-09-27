@@ -1,13 +1,15 @@
+<a id="top"></a>
 # 🛒 Project 1 – eCommerce-App UI Testing Automation Framework
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
 ![TestNG](https://img.shields.io/badge/TestNG-testing-red)
 ![Maven](https://img.shields.io/badge/Maven-build-blue?logo=apachemaven)
+![CI](https://github.com/DoruSQA/Project-2-Banking-Web-UI-Automation-Framework/actions/workflows/manual-module-testing.yml/badge.svg)
 
-> **Note:** This project is part of my personal QA Automation portfolio.
+> **Note 1:** Some reusable framework components are maintained and included as a local JAR dependency.
 
-> **Note:** Some reusable framework components are maintained in a private utility library and are intentionally excluded from this public repository.
+> **Note 2:** This project is part of my personal QA Automation portfolio.
 
 ## Table of Contents
 
@@ -15,14 +17,7 @@
 - [Tech Stack](#tech-stack)
 - [Framework Features](#framework-features)
 - [Framework Architecture](#framework-architecture)
-  - [Layers](#layers)
-  - [Page Object Model](#page-object-model) 
-  - [Test Data Management](#test-data-management)
 - [Test Execution](#test-execution)
-  - [Environment Selection](#environment-selection)
-  - [Browser Selection](#browser-selection)
-  - [Suite Selection](#suite-selection)
-  - [Parallel Execution](#parallel-execution)
 - [Reports and Logging](#reports-and-logging)
 - [Conclusion](#conclusion)
 
@@ -44,16 +39,19 @@
 | Extent Reports | Test reporting | 
 | Logback | Test logging and tracking | 
 | Maven | Dependency and build management |
+| GitHub Actions | Continuous Integration (CI) |
 
 ## ✨ Framework Features
 
-- Cross-Browser execution
-- Test suite selection
-- Environment switching (dev / qa / prod)
-- Sequential and parallel execution
-- Element Waits
-- Reports and Logs
-- Test execution control through Maven parameters
+- **Cross-Browser testing:** Support for Chrome, Firefox and Edge browsers.
+- **Cross-Suite execution:** Run tests by TestNG groups: smoke, regression, etc.
+- **Multi-Environment Support:** Multiple environments (qa, staging) with easy switching.
+- **Sequential and parallel execution:** Run tests sequentially or in parallel.
+- **Element Waits:** Custom wait mechanisms for reliable interaction with web elements.
+- **Test Reporting:** Detailed reports using Extent Reports.
+- **Execution Logging:** Structured execution logs using Logback.
+- Test execution control through **Maven parameters**
+- **GitHub Actions CI:** Two workflows for automated test execution (one manually triggered and one triggered on Pull Requests).
 
 <a id="framework-architecture"></a>
 ## 🏗️ Framework Architecture
@@ -61,7 +59,6 @@
 The framework is organized into dedicated layers, each with a clear responsibility to improve
 maintainability, reusability, and separation of concerns.
 
-### Layers
 
 | Component | Purpose |
 |-------------------|---------|
@@ -73,113 +70,46 @@ maintainability, reusability, and separation of concerns.
 | Utils | Provides shared utilities for reporting, data reading, and custom element waits |
 
 
-### Page Object Model
+## Test Execution
 
-The framework follows the Page Object Model (POM) design pattern.
-
-Each Page Object represents a specific page or functional area of the application
-and is structured around the following responsibilities:
-
-- **Locators** – static and dynamic locators used to identify UI elements.
-- **Page Actions** – low-level methods for interacting with individual UI elements.
-- **Page Behaviors** – higher-level methods that combine multiple page actions to implement specific user workflows.
-- **Element Waits** – a reusable wrapper layer around Selenium explicit waits, ensuring that web elements reach the required state before interaction.
-
-In addition, each Page Object contains:
-- WebDriver instance
-- Logger
-- Constructor
-
-<details>
-<summary>📄 <strong>View InventoryPage implementation example</strong></summary>
-
-![InventoryPage POM](docs/pom-exemple.jpg)
-
-</details>
-
-### Test Data Management
-
-The framework separates test data from test implementation through static, dynamic, and model-based test data management.
-
-| Type | Description | Implementation |
-|---|---|---|
-| **Static Test Data** | Static test data is stored in JSON files and loaded at runtime. | `TestDataFactory` |
-| **Dynamic Test Data** | Dynamic test data is generated at runtime for each test execution. | `TestDataGenerator` |
-| **Model-Based Test Data** | Test data is represented through dedicated Java model classes. | `LoginUser`, `CheckoutUser` |
-
-#### ⭐ Key Principle
-
-Test data is separated from test logic, reducing hardcoded values within test methods.
-
-
-## ▶️ Test Execution
-
-This framework supports configurable test execution through Maven parameters.
-
-### Environment Selection
-
-The framework supports execution against multiple environments using dedicated configuration files.
-  
-#### QA Environment
+### Run All Tests (Default - Smoke Suite)
 
 ```bash
-mvn clean test -Denv=qa
-```
-- Uses: src/test/resources/environments/qa-env.properties
-
-#### Stage Environment
-
-```bash
-mvn clean test -Denv=stage
-```
-- Uses: src/test/resources/environments/stage-env.properties
-
----
-### Sequential and Parallel Execution
-
-Tests can be executed sequentially or in parallel using the `-Dthreads` Maven parameter.
-
-#### Sequential Execution
-
-```bash
-mvn clean test -Dthreads=1
+# All Tests (43 tests)
+mvn clean test
 ```
 
-#### Parallel Execution
+### Run Specific Test Suite 
 
 ```bash
-mvn clean test -Dthreads=3
-```
-
-### Test Suite Selection
-
-#### Smoke Suite
-
-```bash
+# Smoke Tests (8 tests)
 mvn clean test -DtestSuite=Smoke
-```
-- Executes all the tests with 'Smoke' tag
 
-#### Regression Suite
+# Test Module: Banking Account (6 tests) 
+mvn clean test -DtestSuite="Banking Account"
+```
+### Run Tests with different environments
 
 ```bash
-mvn clean test -DtestSuite=Regression
+# Select qa environment
+mvn clean test -Denv=qa
+
+# Select stage environment
+mvn clean test -Denv=stage 
 ```
-- Executes all the tests with 'Regression' tag
 
----
-
-### Browser Selection
-
-Supported browsers:
+### Run Tests with Browser Selection
 
 ```bash
+# Chrome browser (default)
 mvn clean test -DbrowserName=chrome
+
+# Firefox browser
 mvn clean test -DbrowserName=firefox
+
+# Edge browser
 mvn clean test -DbrowserName=edge
 ```
-
----
 
 ## Reports and Logging
 
@@ -216,3 +146,4 @@ The main focus of this project was to demonstrate a solid understanding of core 
 practical application within a structured, generic, and configurable framework.
 
 **Author:** [DoruSQA](https://github.com/DoruSQA) | [LinkedIn](https://www.linkedin.com/in/sava-doru/)
+<p align="right"><a href="#top">Back to Top</a></p>
