@@ -75,18 +75,18 @@ maintainability, reusability, and separation of concerns.
 ### Run All Tests (Default - Smoke Suite)
 
 ```bash
-# All Tests (43 tests)
+# All Tests (24 tests)
 mvn clean test
 ```
 
 ### Run Specific Test Suite 
 
 ```bash
-# Smoke Tests (8 tests)
+# Smoke Tests (4 tests)
 mvn clean test -DtestSuite=Smoke
 
-# Test Module: Banking Account (6 tests) 
-mvn clean test -DtestSuite="Banking Account"
+# Test Module: Checkout (9 tests) 
+mvn clean test -DtestSuite="Checkout"
 ```
 ### Run Tests with different environments
 
@@ -131,7 +131,7 @@ Test execution reports are generated using Extent Reports and located in the `re
 Execution logs are generated using Logback and SLF4J and located in the `logs/` directory.
 
 <details>
-<summary>📊 <strong>Logs Preview</strong></summary>
+<summary>📝 <strong>Logs Preview</strong></summary>
 
 <br>
 
