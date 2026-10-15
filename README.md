@@ -21,11 +21,22 @@
 - [Reports and Logging](#reports-and-logging)
 - [Conclusion](#conclusion)
 
+---
 
 ## 📖 Overview 
 
-- This automation framework is built using Java, Selenium WebDriver, TestNG, Maven, Gson, Logback and Extent Reports.
-- The framework automates Authentication, Product Catalog, Shopping Cart and Checkout workflows of the eCommerce application.
+This automation framework is built using Java, Selenium WebDriver, TestNG, Maven, Gson, Logback and Extent Reports.
+The framework automates the following **modules:**
+- Authentication
+- Product Catalog
+- Shopping Cart
+- Checkout workflows
+
+Both **positive** and **negative scenarios** are automated, covering functional behavior, input constraints, and boundary conditions.
+
+Application under test: [SauceDemo](https://www.saucedemo.com/) 
+
+---
 
 <a id="tech-stack"></a> 
 ## 🛠️ Tech Stack 
@@ -41,6 +52,8 @@
 | Maven | Dependency and build management |
 | GitHub Actions | Continuous Integration (CI) |
 
+---
+
 ## ✨ Framework Features
 
 - **Cross-Browser testing:** Support for Chrome, Firefox and Edge browsers.
@@ -52,6 +65,8 @@
 - **Execution Logging:** Structured execution logs using Logback.
 - Test execution control through **Maven parameters**
 - **GitHub Actions CI:** Two workflows for automated test execution (one manually triggered and one triggered on Pull Requests).
+
+---
 
 <a id="framework-architecture"></a>
 ## 🏗️ Framework Architecture
@@ -69,6 +84,7 @@ maintainability, reusability, and separation of concerns.
 | Tests | Contains test cases organized by application feature |
 | Utils | Provides shared utilities for reporting, data reading, and custom element waits |
 
+---
 
 ## Test Execution
 
@@ -111,6 +127,8 @@ mvn clean test -DbrowserName=firefox
 mvn clean test -DbrowserName=edge
 ```
 
+---
+
 ## Reports and Logging
 
 ### Reports
@@ -139,8 +157,9 @@ Execution logs are generated using Logback and SLF4J and located in the `logs/` 
 
 </details>
 
+---
 
-## 🎯 Conclusion
+## Conclusion
 
 The main focus of this project was to demonstrate a solid understanding of core UI Automation concepts and their
 practical application within a structured, generic, and configurable framework.
